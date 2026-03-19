@@ -1,0 +1,81 @@
+@import "../../_globalColor";
+
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > i {
+  color: inherit;
+}
+
+.software-skill-inline > i:hover {
+  color: $skillsColor;
+}
+
+.software-skill-inline > p {
+  color: $subTitle;
+  font-size: 10px;
+}
+
+.software-skill-inline > i:hover ~ p {
+  color: $skillsColor;
+}
+
+.software-skill-inline > .fa-html5 {
+  color: #E34F26;
+}
+
+.software-skill-inline > .fa-css3-alt {
+  color: #1572B6;
+}
+
+.software-skill-inline > .fa-js {
+  color: #F7DF1E;
+}
+
+.software-skill-inline > .fa-react {
+  color: #61DAFB;
+}
+
+.software-skill-inline > .fa-node-js {
+  color: #339933;
+}
+
+.software-skill-inline > .fa-npm {
+  color: #CB3837;
+}
+
+.software-skill-inline > .fa-database {
+  color: #00758F;
+}
+
+.software-skill-inline > .fa-python {
+  color: #3776AB;
+}
+
+.software-skill-inline > .fa-java {
+  color: #f89820;
+}
+
+.software-skill-inline > .fa-php {
+  color: #777BB4;
+}
+
+.software-skill-inline > .fa-git-alt {
+  color: #F05032;
+}
+
+.software-skill-inline > .fa-docker {
+  color: #2496ED;
+}
