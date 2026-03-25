@@ -32,10 +32,10 @@ I specialize in building **scalable backend systems, REST APIs, and full-stack w
 ## 🛠 Tech Stack
 
 **Languages:**  
-Java • Python • PHP • JavaScript • C  
+Python • PHP • JavaScript • C  
 
 **Backend:**  
-Spring Boot • Laravel • REST APIs • MVC Architecture  
+Django • Laravel • REST APIs • MVC Architecture  
 
 **Frontend:**  
 React • HTML5 • CSS3 • Responsive Design  
@@ -44,7 +44,7 @@ React • HTML5 • CSS3 • Responsive Design
 MySQL • Query Optimization • Schema Design  
 
 **Tools:**  
-Git • GitHub • Postman • Docker • VS Code  
+Git • GitHub • Postman • VS Code  
 
 **Data & ML:**  
 Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
